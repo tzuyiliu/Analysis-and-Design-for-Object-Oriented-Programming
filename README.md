@@ -8,10 +8,10 @@
     C++的 simple class應用  
 - HW4 (C++) 
     為C++中的class提供default constructor / copy constructor / copy assignment operator
-- HW5 (Java)  
+- HW5 (Java)     
     為Java中的class提供default constructor / copy constructor
-- HW6 (C++)
+- HW6 (C++)   
     為C++中兩個class提供friend函式，並利用static member紀錄class物件的數目
-- HW7 (C++)
+- HW7 (C++)   
     練習該架構圖之類別繼承，使用多型Polymorphism功能
     <img src="https://i.imgur.com/lkffBar.png">
