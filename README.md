@@ -1,9 +1,9 @@
 # Analysis-and-Design-for-Object-Oriented-Programming
 碩士班課程 - 物件導向程式分析與設計
 - HW1 (C++ / Java)    
-    於input.txt 設定 初始範圍開始 初始範圍結束 答案 ， 簡易的猜數字遊戲
+    &emsp於input.txt 設定 初始範圍開始 初始範圍結束 答案 ， 簡易的猜數字遊戲
 - HW2 (C++)    
-    &ensp簡易的英文字串儲存程式  
+    &emsp簡易的英文字串儲存程式  
 - HW3 (C++)    
     &enspC++的 simple class應用  
 - HW4 (C++) 
